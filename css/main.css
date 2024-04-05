@@ -96,6 +96,26 @@ h2 {
     line-height: 1.6;
 }
 
+.upper_text p {
+    margin-bottom: 50px;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.jeju_photo img {
+    border-radius: 150px;
+}
+
+.city_name {
+    font-size: 32px;
+}
+
+.daejeon_photo img{
+    width: 1000px;
+    height: 650px;
+    object-fit: cover;
+}
+
 .copyright {
     padding: 50px 0 50px 0;
     text-align: center;
